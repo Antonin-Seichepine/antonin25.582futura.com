@@ -1,0 +1,34 @@
+- generic [ref=f1e2]:
+  - link "Skip to content" [ref=f1e3] [cursor=pointer]:
+    - /url: "#contenu"
+  - banner [ref=f1e4]:
+    - generic [ref=f1e6]:
+      - link "Antonin Seichepine — home" [ref=f1e7] [cursor=pointer]:
+        - /url: "#/"
+      - button "Courses" [ref=f1e10]
+      - group "Language" [ref=f1e11]:
+        - button "en" [pressed] [ref=f1e12]
+        - button "fr" [ref=f1e13]
+  - main [ref=f1e14]:
+    - article [ref=f1e15]:
+      - generic [ref=f1e16]:
+        - link "Home" [ref=f1e17] [cursor=pointer]:
+          - /url: "#/"
+          - generic [ref=f1e18]: ←
+          - text: Home
+        - paragraph [ref=f1e19]: Vanier College · Fall 2026
+        - heading "Motion Graphics" [level=1] [ref=f1e20]
+        - generic [ref=f1e21]:
+          - link "Course Figma file (opens in a new tab)" [ref=f1e22] [cursor=pointer]:
+            - /url: https://www.figma.com/design/K9sJS5t3CtUdqOuwYAQslR/mg1_Antonin?node-id=0-1&t=HnoPkD0xdEbm0csk-1
+            - text: Course Figma file
+            - generic [ref=f1e23]: ↗
+            - generic [ref=f1e24]: (opens in a new tab)
+          - link "GitHub repository (opens in a new tab)" [ref=f1e25] [cursor=pointer]:
+            - /url: https://github.com/Antonin-Seichepine/Motion_graphics1
+            - text: GitHub repository
+            - generic [ref=f1e28]: ↗
+            - generic [ref=f1e29]: (opens in a new tab)
+        - generic [ref=f1e30]:
+          - heading "Submissions" [level=2] [ref=f1e31]
+          - paragraph [ref=f1e32]: Nothing submitted yet.
